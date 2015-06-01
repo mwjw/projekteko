@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrixTest", "matrixTest.vcxproj", "{368E18C4-B4F7-40CC-8558-885737203255}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C3CD2F7-6FEB-4B3E-8F67-7C1B12481F0F}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		matrixTest.vsmdi = matrixTest.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = matrixTest.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368E18C4-B4F7-40CC-8558-885737203255}.Debug|Win32.ActiveCfg = Debug|Win32
+		{368E18C4-B4F7-40CC-8558-885737203255}.Debug|Win32.Build.0 = Debug|Win32
+		{368E18C4-B4F7-40CC-8558-885737203255}.Release|Win32.ActiveCfg = Release|Win32
+		{368E18C4-B4F7-40CC-8558-885737203255}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
